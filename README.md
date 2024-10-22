@@ -1,6 +1,6 @@
 <h1 align="center">PetPass.com</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
-<p align="center"><img src="images/banner-petpass-en.jpg" alt="Interfaz de PetPass" /></p>
+<p align="center"><img https://github.com/cwjasmin/PetPass/blob/main/banner-petpass-en.jpg)" /></p>
 ## Tabla de contenidos:
 ---
 
